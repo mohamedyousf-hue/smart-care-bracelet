@@ -1,0 +1,6 @@
+fastapi[standard]
+sqlalchemy
+requests
+pymysql
+cryptography
+pyjwt
